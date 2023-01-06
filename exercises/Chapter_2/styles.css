@@ -1,0 +1,117 @@
+.uber-request-button {
+  background-color: black;
+  color: white;
+  height: 36px;
+  border: none;
+  width: 110px;
+  border-radius: 1px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.amazon-add-to-cart-button {
+  background-color: rgb(255, 216, 20);
+  color: black;
+  width: 160px;
+  height: 34px;
+  border-radius: 17px;
+  border: none;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.github-sign-up-button {
+  background-color: rgb(46, 164, 79);
+  color: white;
+  height: 36px;
+  width: 80px;
+  border-radius: 6px;
+  border: none;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.bootstrap-get-started-button {
+  background-color: rgb(121, 82, 179);
+  color: white;
+  border: none;
+  height: 36px;
+  width: 100px;
+  font-weight: bold;
+  border-radius: 2px;
+  font-size: 12px;
+  cursor: pointer;
+  margin-right: 6px;
+}
+
+.bootstrap-download-button {
+  background-color: white;
+  color: rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  height: 36px;
+  width: 100px;
+  font-weight: bold;
+  border-radius: 2px;
+  font-size: 12px;
+  cursor: pointer;
+  margin-right: 6px;
+}
+
+.linkedin-apply-ocw-button {
+  background-color: rgb(10, 105, 194);
+  color: white;
+  height: 36px;
+  width: 200px;
+  border-radius: 18px;
+  border: none;
+  font-size: 12px;
+  font-weight: bold;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.linkedin-save-button {
+  background-color: white;
+  color: rgb(10, 105, 194);
+  border-style: solid;
+  border-width: 1px;
+  height: 36px;
+  width: 80px;
+  border-radius: 18px;
+  font-size: 12px;
+  font-weight: bold;
+  border-color:rgb(10, 105, 194);
+  cursor: pointer;
+}
+
+.amazon-link {
+  color: rgb(0, 113, 133);
+}
+
+.object-title-name {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.object-price {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+}
+
+.add-to-cart-button {
+  background-color: rgb(255, 216, 20);
+  height: 30px;
+  width: 110px;
+  border: none;
+  border-radius: 15px;
+  margin-right: 8px;
+}
+
+.buy-now-button {
+  background-color: rgb(255, 164, 28);
+  height: 30px;
+  width: 110px;
+  border: none;
+  border-radius: 15px;
+}
