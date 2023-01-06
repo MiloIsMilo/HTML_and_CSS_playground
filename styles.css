@@ -1,0 +1,21 @@
+.menu {
+  display: flex;
+}
+
+.chapters-menu {
+  flex: 1;
+}
+
+.exercises-menu {
+  flex: 1;
+}
+
+.final-project {
+  background-color:lightcoral;
+  width: 160px;
+  height: 20px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 15px;
+  text-align: center;
+}
