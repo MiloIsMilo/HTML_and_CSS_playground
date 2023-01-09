@@ -1,0 +1,21 @@
+p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.position-div-1 {
+  width: 300px;
+}
+
+.model-p {
+  font-family: Montserrat;
+  font-size: 26px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.description-p {
+  font-family: Montserrat;
+  text-align: center;
+}
