@@ -1,0 +1,27 @@
+.search-bar {
+  font-size: 20px;
+  margin-left: 15px;
+  margin-bottom: 30px;
+}
+
+.position-div-1 {
+  border-width: 1px;
+  border-style: solid;
+  width: 300px;
+}
+.thumbnail {
+  width: 300px;
+  display: block;
+}
+
+.video-title {
+  width: 300px;
+}
+
+.video-author {
+  display: inline-block;
+}
+
+.video-statistics {
+  display: inline-block;
+}
