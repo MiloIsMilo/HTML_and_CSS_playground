@@ -1,0 +1,212 @@
+.red-square {
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.green-circle {
+  background-color: green;
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  display: inline-block;
+}
+
+.border-div {
+  padding-bottom: 15px;
+  padding-right: 60px;
+  padding-left: 10px;
+  border-width: 0.5px;
+  border-style: solid;
+  width: 200px;
+  border-color: rgb(155, 155, 155);
+}
+
+.question-p {
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.window-div {
+  width: 360px;
+  background-color: rgb(34, 32, 32);
+  padding-top: 10px; 
+  padding-left: 10px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+}
+
+.ad-title {
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  margin: 0px;
+  margin-bottom: 10px;
+}
+
+.ad-description {
+  font-family: Arial, Helvetica, sans-serif;
+  color:rgb(122, 122, 122);
+  margin: 0px;
+}
+
+.tweet-border {
+  width: 320px;
+  border: none;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.4);
+  border-radius: 4px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 7px;
+  padding-right: 7px;
+}
+
+.icon {
+  width: 35px;
+  height: 35px;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+.tweet-text {
+  margin-lefT: 5px;
+  border: none;
+  width: 200px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.tweet-button {
+  background-color: rgb(59, 136, 236);
+  color: white;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  border:none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 15px;
+}
+
+.main-container {
+  width: 150px;
+  box-shadow: 2px 2px 8px rgba(0,0,0, 0.3);
+  margin-right: 20px;
+}
+
+.profile-photo {
+  width: 150px;
+  height: 150px;
+}
+
+.profile-name {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.mutuals {
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(90, 90, 90);
+  font-size: 12px;
+  margin-left: 5px;
+  margin-top: 4px;
+}
+
+.add-friend-button {
+  background-color:rgb(59, 106, 236);
+  color: white;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  border-radius: 4px;
+}
+
+.main-container-2 {
+  width: 490px;
+}
+
+.position-div {
+  display: inline-block;
+  box-shadow: 2px 2px 8px rgba(0,0,0, 0.3);
+  margin-right: 10px;
+}
+
+.main-div{
+  text-align: center;
+}
+
+.logo-div {
+  text-align: center;
+}
+
+.google-logo {
+  width: 200px;
+  display: inline-block;
+}
+
+.search-bar-div {
+  text-align: center;
+}
+
+.google-search-bar {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  border: none;
+  box-shadow: 1px 1px 6px rgba(0, 0, 0, 0.3);
+  width: 450px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 12px;
+  padding-right: 12px;
+  border-radius: 15px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.button-div {
+  text-align: center;
+}
+
+.google-search-button {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  border: none;
+  transition: opacity 0.15s;
+}
+
+.google-search-button:hover {
+  opacity: 0.8;
+}
+
+.google-search-button:active {
+  opacity: 0.6;
+}
+
+.feeling-lucky-button {
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 10px;
+  border: none;
+  transition: opacity 0.15s;
+}
+
+.feeling-lucky-button:hover {
+  opacity: 0.8;
+}
+
+.feeling-lucky-button:active {
+  opacity: 0.6;
+}
