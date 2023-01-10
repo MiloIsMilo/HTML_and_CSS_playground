@@ -1,0 +1,165 @@
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0px;
+}
+
+.position-div-10b {
+  margin-bottom: 15px;
+}
+
+.picture-div-10b {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+.profile-picture-10b {
+  display: inline-block;
+  width: 50px;
+  border-radius: 25px;
+}
+
+.profile-info-div-10b {
+  display: inline-block;
+  vertical-align: middle;
+  width: 200px;
+}
+
+.profile-name-10b {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 3px;
+}
+
+.profile-title-10b {
+  font-size: 14px;
+  color: rgb(150, 150, 150);
+  margin-bottom: 3px;
+}
+
+.status-10b {
+  font-size: 12px;
+  color:rgb(150, 150, 150);
+}
+
+.follow-button-div-10b {
+  display: inline-block;
+}
+
+.follow-button-10b {
+  background-color: rgb(40, 158, 236);
+  color: white;
+  font-weight: bold;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 4px;
+}
+
+.position-div-10c {
+  margin-bottom: 10px;
+}
+
+.thumbnail-div-10c {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.thumbnail-10c {
+  width: 175px;
+}
+
+.video-info-div-10c {
+  display: inline-block;
+  vertical-align: top;
+  width: 210px;
+}
+
+.title-10c {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  line-height: 20px;
+}
+
+.channel-10c {
+  font-size: 12px;
+  color: rgb(90, 90, 90);
+  margin-bottom: 5px;
+}
+
+.video-stats-10c {
+  font-size: 12px;
+  color: rgb(90, 90, 90);
+}
+
+.main-container-10e {
+
+}
+
+.position-div-10e {
+  display: inline-block;
+  vertical-align: top;
+  margin-right: 10px;
+  border: none;
+  box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.3);
+}
+
+.profile-photo-10e {
+  width: 130px;
+}
+
+.p-n-d-10e {
+  margin-left: 5px;
+}
+
+.profile-name-10e {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.middle-info-div-10e {
+  display: inline-block;
+  margin-bottom: 10px;
+  margin-left: 5px;
+}
+
+.mutual-icon-div-10e {
+  display: inline-block;
+}
+
+.mutual-friend-10e {
+  width: 20px;
+  border-radius: 10px;
+  vertical-align: middle;
+}
+
+.h-m-m-d-10e {
+  display: inline-block;
+  margin-left: 5px;
+}
+.mutuals-10e {
+  font-size: 10px;
+  color: rgb(90, 90, 90);
+  vertical-align: middle;
+}
+
+.button-div-10e {
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+.add-friend-button-10e {
+  background-color: rgb(40, 108, 236);
+  color: white;
+  font-size: 12px;
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 10px;
+  padding-left:10px;
+  border-radius: 4px;
+}
