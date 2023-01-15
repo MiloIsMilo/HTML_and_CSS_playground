@@ -1,0 +1,34 @@
+.sidebar {
+  z-index: 100;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  position: fixed;
+  top: 100px;
+  left: 0px;
+  bottom: 0px;
+  width: 75px;
+}
+
+.sidebar-icon {
+  width: 24px;
+}
+
+.sidebar-button {
+  width: 100%;
+  background-color: white;
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.sidebar-button:hover {
+  cursor: pointer;
+  background-color: rgb(236, 236, 236);
+}
+
+.sidebar-button-name {
+  margin-left: 0px;
+  margin-right: 0px;
+  font-size: 9px;
+}
