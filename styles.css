@@ -3,11 +3,11 @@
 }
 
 .chapters-menu {
-  flex: 1;
+  min-width: 350px;
 }
 
 .exercises-menu {
-  flex: 1;
+  
 }
 
 .final-project {
